@@ -4,7 +4,7 @@ Forkify is an front-end application that searches through Food2Fork's recipe API
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Live version deployed here: https://frederick-chon.github.io/forkify/
 
 ## Built With
 
