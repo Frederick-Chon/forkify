@@ -1,4 +1,4 @@
-# Project Title
+# Forkify
 
 Forkify is an front-end application that searches through Food2Fork's recipe API for quick and easy recipes.
 
@@ -8,11 +8,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [HTML5]
-* [CSS3]
-* [JavaScript]
-* [Webpack]
-* [Babel]
+* HTML5
+* CSS3
+* JavaScript
+* Webpack
+* Babel
 
 ## License
 
